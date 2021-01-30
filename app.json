@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Off Road Albania",
+    "slug": "Off_Road",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./5.png",
+    "splash": {
+      "image": "./splash_1.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ff4d00"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.offroadalbania.offroad"
+    },
+    "android": {
+      "package": "com.offroadalbania.offroad",
+      "versionCode": 1
+    }
+  }
+}
